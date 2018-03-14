@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32d9e05-ff49-4c77-9822-a2f1748e8f2f" name="Default" comment="">
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" />
@@ -22,6 +23,14 @@
       <change beforePath="$PROJECT_DIR$/production/racineCarre/RacineCarre.class" afterPath="$PROJECT_DIR$/production/racineCarre/RacineCarre.class" />
       <change beforePath="$PROJECT_DIR$/racineCarre/src/RacineCarre.java" afterPath="$PROJECT_DIR$/racineCarre/src/RacineCarre.java" />
 >>>>>>> fin q1
+=======
+      <change beforePath="" afterPath="$PROJECT_DIR$/palindrome/palindrome.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/palindrome/src/Palindrome.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/production/racineCarre/RacineCarre.class" afterPath="$PROJECT_DIR$/production/racineCarre/RacineCarre.class" />
+      <change beforePath="$PROJECT_DIR$/racineCarre/src/RacineCarre.java" afterPath="$PROJECT_DIR$/racineCarre/src/RacineCarre.java" />
+>>>>>>> code
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,6 +44,7 @@
       <file leaf-file-name="RacineCarre.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/racineCarre/src/RacineCarre.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
             <state relative-caret-position="36">
@@ -46,6 +56,20 @@
 =======
             <state relative-caret-position="414">
               <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+=======
+            <state relative-caret-position="414">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/palindrome/src/Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+>>>>>>> code
               <folding />
             </state>
           </provider>
@@ -95,12 +119,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/racineCarre/src/RacineCarre.java" />
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
         <option value="$PROJECT_DIR$/racineCarre/Tests/RacineCarreTest.java" />
 =======
         <option value="$PROJECT_DIR$/palindrome/src/palindrome.java" />
         <option value="$PROJECT_DIR$/palindrome/src/Palindrome.java" />
 >>>>>>> q3
+=======
+        <option value="$PROJECT_DIR$/palindrome/src/palindrome.java" />
+        <option value="$PROJECT_DIR$/palindrome/src/Palindrome.java" />
+>>>>>>> code
       </list>
     </option>
   </component>
@@ -159,11 +188,14 @@
             <path>
               <item name="td-tdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="td-tdd" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="racineCarre" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="td-tdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="td-tdd" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> code
               <item name="racineCarre" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -201,7 +233,10 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+<<<<<<< HEAD
 >>>>>>> fin q1
+=======
+>>>>>>> code
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -335,11 +370,14 @@
         <item index="1" class="java.lang.String" itemvalue="Application.RacineCarre" />
       </list>
     </recent_temporary>
+<<<<<<< HEAD
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+=======
+>>>>>>> code
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -355,6 +393,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521023529874</updated>
       <workItem from="1521023531139" duration="2503000" />
+<<<<<<< HEAD
     </task>
     <task id="LOCAL-00001" summary="Tests folder">
       <created>1521024141666</created>
@@ -362,6 +401,8 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1521024141666</updated>
+=======
+>>>>>>> code
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -375,6 +416,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -386,6 +428,8 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33489582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
 =======
+=======
+>>>>>>> code
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -430,6 +474,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/racineCarre/src/RacineCarre.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
         <state relative-caret-position="36">
@@ -439,6 +484,8 @@
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
 >>>>>>> fin q1
 =======
+=======
+>>>>>>> code
         <state relative-caret-position="414">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
@@ -449,7 +496,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+<<<<<<< HEAD
 >>>>>>> q3
+=======
+>>>>>>> code
           <folding />
         </state>
       </provider>
