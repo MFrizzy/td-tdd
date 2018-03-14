@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f32d9e05-ff49-4c77-9822-a2f1748e8f2f" name="Default" comment="">
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_121.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_122.xml" />
@@ -12,7 +13,13 @@
       <change beforePath="$PROJECT_DIR$/racineCarre/racineCarre.iml" afterPath="$PROJECT_DIR$/racineCarre/racineCarre.iml" />
 =======
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+=======
+      <change beforePath="" afterPath="$PROJECT_DIR$/palindrome/palindrome.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/palindrome/src/Palindrome.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+>>>>>>> q3
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/production/racineCarre/RacineCarre.class" afterPath="$PROJECT_DIR$/production/racineCarre/RacineCarre.class" />
       <change beforePath="$PROJECT_DIR$/racineCarre/src/RacineCarre.java" afterPath="$PROJECT_DIR$/racineCarre/src/RacineCarre.java" />
 >>>>>>> fin q1
     </list>
@@ -29,12 +36,27 @@
         <entry file="file://$PROJECT_DIR$/racineCarre/src/RacineCarre.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
             <state relative-caret-position="36">
               <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="30" />
 =======
             <state relative-caret-position="216">
               <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
 >>>>>>> fin q1
+=======
+            <state relative-caret-position="414">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/palindrome/src/Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+>>>>>>> q3
               <folding />
             </state>
           </provider>
@@ -73,7 +95,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/racineCarre/src/RacineCarre.java" />
+<<<<<<< refs/remotes/origin/master
         <option value="$PROJECT_DIR$/racineCarre/Tests/RacineCarreTest.java" />
+=======
+        <option value="$PROJECT_DIR$/palindrome/src/palindrome.java" />
+        <option value="$PROJECT_DIR$/palindrome/src/Palindrome.java" />
+>>>>>>> q3
       </list>
     </option>
   </component>
@@ -112,6 +139,22 @@
             <path>
               <item name="td-tdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="td-tdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="td-tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="td-tdd" type="462c0819:PsiDirectoryNode" />
+              <item name="palindrome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="td-tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="td-tdd" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="td-tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="td-tdd" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="racineCarre" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="td-tdd" type="b2602c69:ProjectViewProjectNode" />
@@ -172,13 +215,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="palindrome" />
+      <envs />
     </configuration>
     <configuration name="RacineCarre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -268,9 +325,14 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.RacineCarre" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Palindrome" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.RacineCarre" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Palindrome" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RacineCarre" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +354,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521023529874</updated>
-      <workItem from="1521023531139" duration="870000" />
+      <workItem from="1521023531139" duration="2503000" />
     </task>
     <task id="LOCAL-00001" summary="Tests folder">
       <created>1521024141666</created>
@@ -305,7 +367,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="870000" />
+    <option name="totallyTimeSpent" value="2503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="8" width="1926" height="1075" extended-state="6" />
@@ -331,7 +393,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -369,12 +431,25 @@
     <entry file="file://$PROJECT_DIR$/racineCarre/src/RacineCarre.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
         <state relative-caret-position="36">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="30" />
 =======
         <state relative-caret-position="216">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
 >>>>>>> fin q1
+=======
+        <state relative-caret-position="414">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palindrome/src/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+>>>>>>> q3
           <folding />
         </state>
       </provider>
