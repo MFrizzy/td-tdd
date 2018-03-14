@@ -17,6 +17,7 @@ public class RacineCarre {
         for (int i = 0; i < test.length; i++) {
             System.out.println(test[i]);
         }
+        int[] nontest = RacineCarre.tableauRacine(10,1);
     }
 
 }
