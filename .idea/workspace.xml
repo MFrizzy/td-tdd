@@ -14,50 +14,67 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RacineCarreTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/racineCarre/Tests/RacineCarreTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/racineCarre/src/RandomMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RacineCarre.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/racineCarre/src/RacineCarre.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="RacineCarreTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/racineCarre/Tests/RacineCarreTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RandomMatrixTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/racineCarre/Tests/RandomMatrixTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="288">
+                  <caret line="43" column="63" lean-forward="false" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RacineCarre.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/racineCarre/src/RacineCarre.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="54">
+                  <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="RandomMatrix.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/racineCarre/src/RandomMatrix.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="72">
+                  <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,8 +88,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/racineCarre/Tests/RacineCarreTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/racineCarre/src/RandomMatrix.java" />
+        <option value="$PROJECT_DIR$/racineCarre/Tests/RacineCarreTest.java" />
+        <option value="$PROJECT_DIR$/racineCarre/Tests/RandmoMatrixTest.java" />
+        <option value="$PROJECT_DIR$/racineCarre/Tests/RandomMatrixTest.java" />
       </list>
     </option>
   </component>
@@ -175,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RacineCarreTest">
+  <component name="RunManager" selected="JUnit.RandomMatrixTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -225,6 +245,66 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RacineCarreTest" />
       <option name="METHOD_NAME" value="testNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RandomMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="racineCarre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RandomMatrixTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RandomMatrixTest.testNegativeMatrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="racineCarre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RandomMatrixTest" />
+      <option name="METHOD_NAME" value="testNegativeMatrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RandomMatrixTest.testTemps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="racineCarre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RandomMatrixTest" />
+      <option name="METHOD_NAME" value="testTemps" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -297,14 +377,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.RacineCarreTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.RacineCarreTest.testNegative" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RandomMatrixTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RandomMatrixTest.testNegativeMatrice" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RandomMatrixTest.testTemps" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.RacineCarreTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RacineCarreTest.testNegative" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RandomMatrixTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RandomMatrixTest.testTemps" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RandomMatrixTest.testNegativeMatrice" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RacineCarreTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RacineCarreTest.testNegative" />
       </list>
     </recent_temporary>
   </component>
@@ -321,20 +407,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521026146454</updated>
-      <workItem from="1521026147583" duration="1545000" />
+      <workItem from="1521026147583" duration="3094000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RacineCarreTest - 2018.03.14 at 12h 21m 33s.xml">
-      <configuration name="RacineCarreTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RacineCarreTest - 2018.03.14 at 12h 22m 22s.xml">
-      <configuration name="RacineCarreTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RacineCarreTest - 2018.03.14 at 12h 22m 51s.xml">
-      <configuration name="RacineCarreTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RacineCarreTest - 2018.03.14 at 12h 23m 17s.xml">
       <configuration name="RacineCarreTest" configurationId="JUnit" />
     </history-entry>
@@ -344,13 +421,33 @@
     <history-entry file="RacineCarreTest_testNegative - 2018.03.14 at 12h 23m 13s.xml">
       <configuration name="RacineCarreTest.testNegative" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RandomMatrixTest - 2018.03.14 at 12h 58m 43s.xml">
+      <configuration name="RandomMatrixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomMatrixTest - 2018.03.14 at 13h 07m 03s.xml">
+      <configuration name="RandomMatrixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomMatrixTest_testNegativeMatrice - 2018.03.14 at 12h 59m 33s.xml">
+      <configuration name="RandomMatrixTest.testNegativeMatrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomMatrixTest_testNegativeMatrice - 2018.03.14 at 12h 59m 42s.xml">
+      <configuration name="RandomMatrixTest.testNegativeMatrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomMatrixTest_testNegativeMatrice - 2018.03.14 at 12h 59m 52s.xml">
+      <configuration name="RandomMatrixTest.testNegativeMatrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomMatrixTest_testNegativeMatrice - 2018.03.14 at 13h 04m 13s.xml">
+      <configuration name="RandomMatrixTest.testNegativeMatrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomMatrixTest_testTemps - 2018.03.14 at 13h 06m 59s.xml">
+      <configuration name="RandomMatrixTest.testTemps" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1545000" />
+    <option name="totallyTimeSpent" value="3094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="259" y="62" width="1920" height="989" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -361,7 +458,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -430,6 +527,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/racineCarre/src/RacineCarre.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -438,29 +543,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/racineCarre/Tests/RacineCarreTest.java">
+    <entry file="file://$PROJECT_DIR$/racineCarre/src/RandomMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="72">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/racineCarre/src/RandomMatrix.java">
+    <entry file="file://$PROJECT_DIR$/racineCarre/Tests/RacineCarreTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/racineCarre/Tests/RandomMatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="288">
+          <caret line="43" column="63" lean-forward="false" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

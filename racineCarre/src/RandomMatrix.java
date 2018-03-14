@@ -1,6 +1,4 @@
-import java.util.Arrays;
 import java.util.Random;
-import java.util.stream.IntStream;
 
 public class RandomMatrix {
     public static int[][] generateMatrix(int M,int N,int A,int B){
@@ -15,7 +13,5 @@ public class RandomMatrix {
             }
             return matrix;
         }
-
     }
-
 }
