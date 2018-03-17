@@ -18,9 +18,11 @@ public class PalindromeTest {
         }
         assertTrue(Palindrome.palindrome("")>0);
     }
+    @Test
     public void workTest(){
         assertTrue(Palindrome.palindrome("non")==1);
     }
+    @Test
     public void multipleWordsTest(){
         assertTrue(Palindrome.palindrome("non oui non Non")==3);
     }
